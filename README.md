@@ -1,4 +1,4 @@
-![d](chiqors.png)
+![d](https://raw.githubusercontent.com/chiqors/chiqors/master/chiqors.png)
 ## Hi 👋 I am Chiqo!
 I am a software developer who is passionate about stuff like web and cloud development. I am  I have just started tech-blogging! 
 
