@@ -5,6 +5,9 @@ I am a software developer who is passionate about stuff like web and cloud devel
 - 🤝 Open for collaborations in web development (frontend or backend).
 - 😊 Willing to contribute in opensource projects.
 - 👍 Looking for opportunities to join as an intern/full time candidate in web development teams.
+- 🎓 I'm currently a student in UNIKOM
+- 🦉 Most Productive Time used on Night
+- 📅 I'm Most Productive on Saturday & Sunday
 - 🌐 Visit my [porfolio website](https://chiqors.github.io/) for complete background and contact.
 
 <details open>
@@ -69,35 +72,14 @@ I am a software developer who is passionate about stuff like web and cloud devel
 
 </design>
 
-<details> 
- <summary>🤖 <b>My programming stats(Click to expand)</b>: </summary>
+---
 
-<!--START_SECTION:waka-->
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    90 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-🌆 Daytime    144 commits    ███████░░░░░░░░░░░░░░░░░░   30.38% 
-🌃 Evening    168 commits    ████████░░░░░░░░░░░░░░░░░   35.44% 
-🌙 Night      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19%
-
-```
-📅 **I'm Most Productive on Sundays** 
-
-```text
-Monday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-Tuesday      51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
-Wednesday    45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
-Thursday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
-Friday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-Saturday     87 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-Sunday       96 commits     █████░░░░░░░░░░░░░░░░░░░░   20.25%
-
-```
-
-<!--END_SECTION:waka-->
-
-</details>
-
-You could make a one-time donation via PayPal
+🌱🌱 You could make a one-time donation for my study purposes:
+<br><br>
 [<img src = "https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white">](https://paypal.me/chiqors105)
+
+---
+
+🔰🔰 I have run 2 small communities in discord for specific purpose:
+- [Mineout Universe (Minecraft Modpack Team)](https://discord.gg/XZAA2ZK)
+- [HMR Foundation (General Tech Community)](https://discord.gg/Tk8zbdR)
