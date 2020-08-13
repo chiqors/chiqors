@@ -1,4 +1,4 @@
-![d](https://raw.githubusercontent.com/chiqors/chiqors/master/chiqors.png)
+![banner](https://raw.githubusercontent.com/chiqors/chiqors/master/chiqors.png)
 ## Hi 👋 I am Chiqo!
 I am a software developer who is passionate about stuff like web and cloud development. I have just started tech-blogging! 
 
@@ -67,6 +67,6 @@ I am a software developer who is passionate about stuff like web and cloud devel
 
 ---
 
-🔰🔰 I have run 2 small communities in discord for specific purpose:
-- [Mineout Universe (Minecraft Modpack Team)](https://discord.gg/XZAA2ZK)
-- [HMR Foundation (General Tech Community)](https://discord.gg/Tk8zbdR)
+🔰🔰 I have run 2 small communities in discord for specific purpose. Join to learn more about it!<br><br>
+<a href="https://discord.gg/XZAA2ZK"><img src="https://raw.githubusercontent.com/chiqors/chiqors/master/dschome.png" width="300"></a>
+<a href="https://discord.gg/Tk8zbdR"><img src="https://raw.githubusercontent.com/chiqors/chiqors/master/home.png" width="300"></a>
