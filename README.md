@@ -61,20 +61,6 @@ I am a software developer who is passionate about stuff like web and cloud devel
 
 ---
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=chiqors&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chiqors&hide=css,html&theme=tokyonight">
-</p>
-
-</design>
-
----
-
 🌱🌱 You could make a one-time donation for my study purposes:
 <br><br>
 [<img src = "https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white">](https://paypal.me/chiqors105)
