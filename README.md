@@ -2,7 +2,7 @@
 ## Hi 👋 I am Chiqo!
 I am a software developer who is passionate about stuff like web and cloud development. I have just started tech-blogging! 
 
-- 👨🏽‍💻 Currently learning in React Development.
+- 👨🏽‍💻 Currently learning in AdonisJS Development.
 - 🤝 Open for collaborations in web development (frontend or backend).
 - 😊 Willing to contribute in opensource projects.
 - 👍 Looking for opportunities to join as an intern/full time candidate in web development teams.
