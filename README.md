@@ -32,8 +32,6 @@ I am a software developer who is passionate about stuff like web and cloud devel
 <img src="https://img.shields.io/badge/apache%20-%23D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/nodejs%20-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/azure%20-%230089D6.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
