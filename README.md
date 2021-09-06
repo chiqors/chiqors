@@ -16,6 +16,7 @@ I am a software developer who is passionate about stuff like web and cloud devel
 <img src="https://img.shields.io/badge/AdonisJS%20-%23220052.svg?&style=for-the-badge&logo=AdonisJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/VueJS%20-%234FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quasar%20-%231976D2.svg?&style=for-the-badge&logo=Quasar&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
