@@ -66,6 +66,5 @@ I am a software developer who is passionate about stuff like web and cloud devel
 
 ---
 
-🔰🔰 I have run 2 small communities in discord for specific purpose. Join to learn more about it!<br><br>
-<a href="https://discord.gg/XZAA2ZK"><img src="https://raw.githubusercontent.com/chiqors/chiqors/master/dschome.png" width="300"></a>
+🔰🔰 I have run a small community in discord for specific purpose. Join to learn more about it!<br><br>
 <a href="https://discord.gg/Tk8zbdR"><img src="https://raw.githubusercontent.com/chiqors/chiqors/master/home.png" width="300"></a>
