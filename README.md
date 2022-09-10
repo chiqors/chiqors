@@ -2,7 +2,7 @@
 ## Hi 👋 I am Chiqo!
 I am a full stack software developer, who is passionate about cross-platform development. I am not an expert on one programming languages only. I have a lot things to learn about technology. I will decide one tech stack, once i have joined to a company.
 
-- 👨🏽‍💻 Currently learning in BAAS Development (Supabase).
+- 👨🏽‍💻 Currently learning in BAAS Development (Supabase). Moving from Monolith into Microservice!
 - 🦉 Most Productive Time used on Night
 - 📅 I'm Most Productive on Saturday & Sunday
 - 🌐 Visit my [porfolio website](https://chiqors.github.io/) for complete background and contact.
