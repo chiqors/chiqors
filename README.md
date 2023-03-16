@@ -1,5 +1,5 @@
 ![banner](https://raw.githubusercontent.com/chiqors/chiqors/master/chiqors.png)
-<h1 align="center">Hi 👋, I'm Chiqo</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Chiqo</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiqors&label=Profile%20views&color=0e75b6&style=flat" alt="chiqors" /> </p>
@@ -10,13 +10,11 @@
 
 - 🔭 I’m currently working on [WGS Absence](https://github.com/chiqors/WGS-Absence-Frontend)
 
-- 🌱 I’m currently learning **Backend As A Service Development**
+- 🌱 I’m currently learning **Cross-platform Development**
 
 - 👯 I’m looking to collaborate on [Mineout The Wasteland](https://github.com/MineoutUniverse/Mineout-The-Wasteland)
 
 - 👨‍💻 All of my projects are available at [https://chiqors.me](https://chiqors.me)
-
-- 📝 I regularly write articles on [https://dev.to/chiqors](https://dev.to/chiqors)
 
 - 💬 Ask me about **React, Vue or PHP**
 
@@ -24,9 +22,17 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LtK80VKxNQr0KWRvy4G_VtpQ2nH4LWyk/view?usp=sharing](https://drive.google.com/file/d/1LtK80VKxNQr0KWRvy4G_VtpQ2nH4LWyk/view?usp=sharing)
 
-- ⚡ Fun fact **I like dad jokes :P**
+### ✨&nbsp; About Me
 
-### Blogs posts
+I am a Full Stack Developer with 9+ years of experience in developing software applications. I have internship experience at various locations in IT as a web developer. I have also participated in several IT competitions on a national and international scale.
+
+#### Awards and Achievements
+- Won 1st place of [Medinnovation National Competition
+2020](https://www.medion.co.id/medinnovation-kompetisi-inovatif)
+- Won 1st place of [Kominfo idenTIK National Competition 2020](https://www.pikiran-rakyat.com/pendidikan/pr-01899046/unikom-raih-juara-1-kompetisi-identik-2020-dua-kategori-sekaligus)
+- Won 3rd place of [AICTA 2021 International Competition](https://aptika.kominfo.go.id/2021/12/dominasi-indonesia-dalam-ajang-asean-ict-awards-aicta-tahun-2021)
+
+### 📕&nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
