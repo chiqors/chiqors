@@ -51,6 +51,10 @@
 
 <br><br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chiqors&show_icons=true&locale=en" alt="chiqors" style="width:33%" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiqors&show_icons=true&locale=en&layout=compact" alt="chiqors" style="width:25%" />
-<img align="left" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chiqors&" alt="chiqors" style="width:33%" />
+<div style="display:flex;justify-content:space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiqors&show_icons=true&locale=en&layout=compact" alt="chiqors" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiqors&show_icons=true&locale=en" alt="chiqors" />
+</div>
+<div style="text-align:center;">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiqors&" alt="chiqors" />
+</div>
