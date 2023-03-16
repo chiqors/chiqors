@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **chiqors@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LtK80VKxNQr0KWRvy4G_VtpQ2nH4LWyk/view?usp=sharing](https://drive.google.com/file/d/1LtK80VKxNQr0KWRvy4G_VtpQ2nH4LWyk/view?usp=sharing)
-
 ### ✨&nbsp; About Me
 
 I am a Full Stack Developer with 9+ years of experience in developing software applications. I have internship experience at various locations in IT as a web developer. I have also participated in several IT competitions on a national and international scale.
