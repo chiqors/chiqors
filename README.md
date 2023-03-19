@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [WGS Absence](https://github.com/chiqors/WGS-Absence-Frontend)
 
-- 🌱 I’m currently learning **Cross-platform Development**
+- 🌱 I’m currently learning [Supabase](https://supabase.com)
 
 - 👯 I’m looking to collaborate on [Mineout The Wasteland](https://github.com/MineoutUniverse/Mineout-The-Wasteland)
 
