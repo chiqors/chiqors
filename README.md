@@ -47,7 +47,7 @@ I am a Full Stack Developer with 9+ years of experience in developing software a
 <a href="https://medium.com/@chiqors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiqors" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chiqors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chiqors" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chiqors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chiqors" height="30" width="40" /></a>
-<a href="/https://dev.to/feed/chiqors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dev.to/feed/chiqors" height="30" width="40" /></a>
+<a href="https://dev.to/feed/chiqors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dev.to/feed/chiqors" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
