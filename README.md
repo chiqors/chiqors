@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React, Vue or PHP**
 
-- 📫 How to reach me **chiqors@outlook.com**
+- 📫 Reach me on <a href="https://discord.com/users/96932876871811072">Discord</a>
 
 ### ✨&nbsp; About Me
 
@@ -64,14 +64,22 @@ I am a Full Stack Developer with 9+ years of experience in developing software a
 <img src="https://img.shields.io/badge/stripe%20-%23008CDD.svg?&style=for-the-badge&logo=Stripe&logoColor=white"/></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://paypal.me/chiqors105"> <img align="left" src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" height="35" alt="chiqors" /></a></p>
+<p>
+<a href="https://paypal.me/chiqors105"> 
+<img align="left" src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" height="35" alt="paypal" />
+</a>
+<a href="https://github.com/sponsors/chiqors"> 
+<img src="https://img.shields.io/badge/%20sponsor%20-%23EA4AAA.svg?&style=for-the-badge&logo=Github%20Sponsors&logoColor=white" height="35" alt="sponsor"/>
+</a>
+</p>
 
 <br><br><br>
 
 <div style="display:flex;justify-content:space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiqors&show_icons=true&locale=en&layout=compact" alt="chiqors" style="height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chiqors&show_icons=true&locale=en" alt="chiqors" />
+  <img src="https://lanyard.cnrad.dev/api/96932876871811072?idleMessage=Possibly%20writing%20code..." alt="Discord Status" style="height: 255px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiqors&show_icons=true&locale=en&layout=compact" alt="chiqors" style="height: 255px;" />
 </div>
-<div style="text-align:center;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiqors&" alt="chiqors" />
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiqors&" alt="chiqors" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiqors&show_icons=true&locale=en" alt="chiqors" style="height: 195px;" />
 </div>
