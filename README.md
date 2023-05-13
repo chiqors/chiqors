@@ -8,13 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/chiqors" target="blank"><img src="https://img.shields.io/twitter/follow/chiqors?logo=twitter&style=for-the-badge" alt="chiqors" /></a> </p>
 
-- 🔭 I’m currently working on [WGS Absence](https://github.com/chiqors/WGS-Absence-Frontend)
-
 - 🌱 I’m currently learning [Supabase](https://supabase.com)
-
-- 👯 I’m looking to collaborate on [Mineout The Wasteland](https://github.com/MineoutUniverse/Mineout-The-Wasteland)
-
-- 👨‍💻 All of my projects are available at [https://chiqors.me](https://chiqors.me)
 
 - 💬 Ask me about **React, Vue or PHP**
 
