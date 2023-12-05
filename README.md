@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/chiqors/chiqors/master/chiqors.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Chiqo</h1>
-<h3 align="center">Fullstack Developer from Indonesia</h3>
+<h3 align="center">10X Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiqors&label=Profile%20views&color=0e75b6&style=flat" alt="chiqors" /> </p>
 
