@@ -68,10 +68,9 @@ I am a Full Stack Developer with 9+ years of experience in developing software a
 </p>
 
 <div style="display:flex;justify-content:space-between;">
-  <img src="https://lanyard.cnrad.dev/api/96932876871811072?idleMessage=Possibly%20writing%20code..." alt="Discord Status" style="height: 196px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiqors&show_icons=true&locale=en&layout=compact" alt="chiqors" style="height: 196px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiqors&show_icons=true&locale=en" alt="chiqors" style="height: 196px;" />
 </div>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiqors&" alt="chiqors" style="width: 380px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chiqors&show_icons=true&locale=en" alt="chiqors" style="height: 150px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiqors&" alt="chiqors" />
 </div>
