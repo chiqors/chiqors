@@ -16,9 +16,9 @@
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 9+ years of experience in developing software applications. I have internship experience at various locations in IT as a web developer. I have also participated in several IT competitions on a national and international scale.
+Results-driven IT professional with a degree in Informatic Engineering from Indonesian Computer University. Over 8 years of experience in web development, with a passion for learning and a track record of success in national and international IT competitions.
 
-#### Awards and Achievements
+### :trophy:&nbsp; Awards and Achievements
 - Won 1st place of [2020 Medion Medinnovation National Competition](https://www.medion.co.id/medinnovation-kompetisi-inovatif)
 - Won 1st place of [2020 Kominfo idenTIK National Competition](https://www.pikiran-rakyat.com/pendidikan/pr-01899046/unikom-raih-juara-1-kompetisi-identik-2020-dua-kategori-sekaligus)
 - Won 3rd place of [2021 ASEAN ICT Award (AICTA) International Competition](https://aptika.kominfo.go.id/2021/12/dominasi-indonesia-dalam-ajang-asean-ict-awards-aicta-tahun-2021)
