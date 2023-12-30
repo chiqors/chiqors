@@ -12,11 +12,15 @@
 
 - 💬 Ask me about **React, Vue or PHP**
 
-- 📫 Reach me on <a href="https://discord.com/users/96932876871811072">Discord</a>
+- 📫 Open to collaboration and new challenges. If you have inquiries about my professional work or want to discuss potential collaborations, feel free to reach out at <a href="https://discord.com/users/96932876871811072">Discord</a>
 
 ### ✨&nbsp; About Me
 
 Results-driven IT professional with a degree in Informatic Engineering from Indonesian Computer University. Over 8 years of experience in web development, with a passion for learning and a track record of success in national and international IT competitions.
+
+#### Current Focus:
+- Actively contributing to private projects on GitLab Self-Hosted Platform for Clients.
+- Limited activity on this GitHub account, which mainly features personal and open-source projects.
 
 ### :trophy:&nbsp; Awards and Achievements
 - Won 1st place of [2020 Medion Medinnovation National Competition](https://www.medion.co.id/medinnovation-kompetisi-inovatif)
