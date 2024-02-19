@@ -31,6 +31,8 @@ Results-driven IT professional with a degree in Informatic Engineering from Indo
 <!-- BLOG-POST-LIST:START -->
 - [Cara Instalasi Server NodeJS pada Shared Hosting &lpar;Cpanel/DirectAdmin&rpar; Tanpa Akses Kontrol SSH](https://dev.to/chiqors/cara-instalasi-server-nodejs-pada-shared-hosting-cpanel-directadmin-tanpa-akses-kontrol-ssh-17k)
 - [Menjelajahi Pengembangan Ide Desain Produk](https://dev.to/chiqors/menjelajahi-pengembangan-ide-desain-produk-4n86)
+- [Cara untuk instalasi NodeJS pada Shared Hosting &lpar;Cpanel/DirectAdmin&rpar;](https://medium.com/ergunikom/cara-setup-untuk-instalasi-nodejs-pada-shared-hosting-cpanel-directadmin-173338bad389?source=rss-1d0ab41ea3c5------2)
+- [Menjelajahi Pengembangan Ide Desain &lpar;Bagian 1&rpar;](https://medium.com/ergunikom/menjelajahi-pengembangan-ide-desain-bagian-1-8492be17a67d?source=rss-1d0ab41ea3c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
