@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/chiqors" target="blank"><img src="https://img.shields.io/twitter/follow/chiqors?logo=twitter&style=for-the-badge" alt="chiqors" /></a> </p>
 
-- 🌱 I’m currently learning [Supabase](https://supabase.com)
+- 🌱 I’m currently learning [Terraform](https://www.terraform.io)
 
 - 💬 Ask me about **React, Vue or PHP**
 
