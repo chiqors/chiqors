@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning [Terraform](https://www.terraform.io)
 
-- 💬 Ask me about **React, Vue or PHP**
-
 - 📫 Open to collaboration and new challenges. If you have inquiries about my professional work or want to discuss potential collaborations, feel free to reach out at <a href="https://discord.com/users/96932876871811072">Discord</a>
 
 ### ✨&nbsp; About Me
