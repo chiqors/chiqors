@@ -14,7 +14,7 @@
 
 ### ✨&nbsp; About Me
 
-Results-driven IT professional with a degree in Informatic Engineering from Indonesian Computer University. Over 8 years of experience in web development, with a passion for learning and a track record of success in national and international IT competitions.
+Driven by a deep-seated passion for technology, I have spent over nine years in the IT field, evolving into a proficient full-stack developer. As a self-motivated and fast learner, I have honed my expertise in Java, React.js, and Nest.js, enabling me to create intuitive user interfaces and optimize web performance. I am adept at developing maintainable, scalable, and reusable websites, prioritizing accessibility, and user engagement. Committed to innovation, I have consistently delivered exceptional results, recognized through success in national and international IT competitions. My career reflects the abundant opportunities awaiting aspiring developers eager to learn and grow.
 
 #### Current Focus:
 - Actively contributing to private projects on GitLab Self-Hosted Platform for Clients.
