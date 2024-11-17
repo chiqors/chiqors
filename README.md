@@ -7,13 +7,11 @@
 ### Current Status:
 - 🌱 I’m currently learning [SRE Engineering](https://www.terraform.io)
 - 📫 Seeking remote or hybrid job opportunities globally.
+- 💼 Limited activity on this GitHub account, which mainly features personal and open-source projects.
 
 ### ✨&nbsp; About Me
 
-With over nine years in IT field, I am passionate about driving innovation as a full-stack developer with a focus on Java, React.js, and Microservices. I am now channeling my expertise towards becoming a Solution Architect specializing in AWS and Google Cloud, creating scalable and impactful solutions. At Appschef, I developed budget management features and integrated online donation systems, enhancing user engagement through seamless payment gateways and communication channels like email and WhatsApp. My role involved leading projects, collaborating with teams, and meeting tight deadlines. Recognized in national and international IT competitions, my work at ERG UNIKOM showcases my expertise in full-stack development and web optimization. I am committed to leveraging my skills to design cloud solutions that propel business success.
-
-#### Current Focus:
-- Limited activity on this GitHub account, which mainly features personal and open-source projects.
+With over nine years in IT field, I am passionate about driving innovation as a full-stack developer with a focus on Java, React.js, and Microservices. I am now channeling my expertise towards becoming a Solution Architect specializing in Google Cloud, creating scalable and impactful solutions. At Appschef, I developed budget management features and integrated online donation systems, enhancing user engagement through seamless payment gateways and communication channels like email and WhatsApp. My role involved leading projects, collaborating with teams, and meeting tight deadlines. Recognized in national and international IT competitions, my work at ERG UNIKOM showcases my expertise in full-stack development and web optimization. I am committed to leveraging my skills to design cloud solutions that propel business success.
 
 ### :trophy:&nbsp; Awards and Achievements
 - Won 1st place of [2020 Medion Medinnovation National Competition](https://www.medion.co.id/medinnovation-kompetisi-inovatif)
