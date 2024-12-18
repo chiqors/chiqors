@@ -1,17 +1,22 @@
 ![banner](https://raw.githubusercontent.com/chiqors/chiqors/master/chiqors.png)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Chiqo</h1>
-<h3 align="center">Solution Architect from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Chiqo from Indonesia 🇮🇩</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiqors" alt="chiqors" /></a> </p>
+<h3 align="center">IT Enthusiast specializing in cloud automation and operational efficiency.</h3>
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiqors&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
 ### Current Status:
-- 🌱 I’m currently learning [SRE Engineering](https://www.terraform.io)
+- 🌱 I’m currently learning [Terraform](https://www.terraform.io)
 - 📫 Seeking remote or hybrid job opportunities globally.
 - 💼 Limited activity on this GitHub account, which mainly features personal and open-source projects.
+- 📄 Know about my experiences [https://www.linkedin.com/in/chiqors](https://www.linkedin.com/in/chiqors)
+
+<br><br>
 
 ### ✨&nbsp; About Me
 
-With over nine years in IT field, I am passionate about driving innovation as a full-stack developer with a focus on Java, React.js, and Microservices. I am now channeling my expertise towards becoming a Solution Architect specializing in Google Cloud, creating scalable and impactful solutions. At Appschef, I developed budget management features and integrated online donation systems, enhancing user engagement through seamless payment gateways and communication channels like email and WhatsApp. My role involved leading projects, collaborating with teams, and meeting tight deadlines. Recognized in national and international IT competitions, my work at ERG UNIKOM showcases my expertise in full-stack development and web optimization. I am committed to leveraging my skills to design cloud solutions that propel business success.
+Driven by a deep-seated passion for technology, I have spent over four years evolving my skills, initially as a Full-stack Engineer with expertise in Java, React.js, and Microservices. Holding a Bachelor's degree in Computer Science from Indonesia Computer University, I am now focusing on transitioning into a Cloud/DevOps Engineer role. My specialization lies in cloud platforms like AWS and Google Cloud, where I aim to create scalable, efficient, and impactful solutions through robust architecture and system performance. I excel in designing maintainable and reusable applications and am committed to innovation and continuous learning. My dedication has been recognized through success in national and international IT competitions. My career reflects the abundant opportunities available for aspiring developers eager to embrace DevOps and cloud technologies.
 
 ### :trophy:&nbsp; Awards and Achievements
 - Won 1st place of [2020 Medion Medinnovation National Competition](https://www.medion.co.id/medinnovation-kompetisi-inovatif)
