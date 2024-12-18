@@ -16,5 +16,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/chiqors,https://medium.com/feed/@chiqors"
+          feed_list: "https://dev.to/feed/chiqors"
           remove_duplicates: true
