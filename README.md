@@ -8,8 +8,7 @@
 
 ### Current Status:
 - 🌱 I’m currently learning [Terraform](https://www.terraform.io)
-- 📫 Seeking remote or hybrid job opportunities globally.
-- 💼 Limited activity on this GitHub account, which mainly features personal and open-source projects.
+- 📫 Working as a DevOps Engineer in Large-scale Project
 - 📄 Know about my experiences [https://www.linkedin.com/in/chiqors](https://www.linkedin.com/in/chiqors)
 
 ### ✨&nbsp; About Me
