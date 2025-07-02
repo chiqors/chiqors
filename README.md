@@ -23,7 +23,7 @@ Driven by a deep-seated passion for technology, I have spent over four years evo
 
 ### 📕&nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cara Instalasi Server NodeJS pada Shared Hosting &lpar;Cpanel/DirectAdmin&rpar; Tanpa Akses Kontrol SSH](https://dev.to/chiqors/cara-instalasi-server-nodejs-pada-shared-hosting-cpanel-directadmin-tanpa-akses-kontrol-ssh-17k)
+- [How to Install a NodeJS Server on Shared Hosting &lpar;cPanel/DirectAdmin&rpar; Without SSH Access](https://dev.to/chiqors/cara-instalasi-server-nodejs-pada-shared-hosting-cpanel-directadmin-tanpa-akses-kontrol-ssh-17k)
 - [Menjelajahi Pengembangan Ide Desain Produk](https://dev.to/chiqors/menjelajahi-pengembangan-ide-desain-produk-4n86)
 <!-- BLOG-POST-LIST:END -->
 
