@@ -23,6 +23,7 @@ Driven by a deep-seated passion for technology, I have spent over four years evo
 
 ### 📕&nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Federated FHIR Ecosystem for Indonesia’s Healthcare Network](https://dev.to/chiqors/how-i-built-a-federated-fhir-ecosystem-for-indonesias-healthcare-network-4m74)
 - [Building Your First Cloud-Native Kubernetes Cluster: A Beginner&#39;s Journey with Talos Linux and Cilium](https://dev.to/chiqors/building-your-first-cloud-native-kubernetes-cluster-a-beginners-journey-with-talos-linux-and-2i0o)
 - [How to Install a NodeJS Server on Shared Hosting &lpar;cPanel/DirectAdmin&rpar; Without SSH Access](https://dev.to/chiqors/cara-instalasi-server-nodejs-pada-shared-hosting-cpanel-directadmin-tanpa-akses-kontrol-ssh-17k)
 - [Exploring Product Design Idea Development](https://dev.to/chiqors/menjelajahi-pengembangan-ide-desain-produk-4n86)
