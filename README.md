@@ -32,9 +32,6 @@ My career reflects a journey from application development to platform engineerin
 
 <h3 align="left">Support:</h3>
 <p>
-<a href="https://paypal.me/chiqors105"> 
-<img align="left" src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" height="35" alt="paypal" />
-</a>
 <a href="https://github.com/sponsors/chiqors"> 
 <img src="https://img.shields.io/badge/%20sponsor%20-%23EA4AAA.svg?&style=for-the-badge&logo=Github%20Sponsors&logoColor=white" height="35" alt="sponsor"/>
 </a>
