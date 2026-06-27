@@ -8,14 +8,13 @@
 
 ### Current Status:
 - 🌱 I’m currently learning [StarRocks](https://www.starrocks.io/)
-- 📫 Working as a DevOps Engineer in National Large-scale Project
+- 📫 Working as a Senior Platform Engineer in National Large-scale Project
 - 📄 Know about my experiences [https://www.linkedin.com/in/chiqors](https://www.linkedin.com/in/chiqors)
 
 ### ✨&nbsp; About Me
 
-I build platforms that scale, systems that last, and infrastructure teams can trust. With over four years of hands-on experience across software engineering and cloud infrastructure, I started as a Full-stack Engineer delivering production-grade applications with Java, React.js, and microservices, an origin that forged my deep expertise in performance, reliability, and architecture. I am also proud to be part of the Cloud Native Computing Foundation (CNCF) contributor community and its vast ecosystem, actively contributing to open-source technologies and collaborating with others to advance cloud-native innovation and tooling.
+I build platforms that scale, systems that last, and infrastructure teams can trust and increasingly, I build that infrastructure with AI as a core part of the workflow. With over four years of hands-on experience across software engineering and cloud infrastructure, I started as a Full-stack Engineer delivering production-grade applications with Java, React.js, and microservices, an origin that forged my deep expertise in performance, reliability, and architecture. Today, I combine that platform engineering foundation with agentic AI development using LLM-driven tooling and SDKs to design CI/CD pipelines, GitOps workflows, and infrastructure-as-code faster and more reliably, and applying that same AI-assisted approach to architect real systems such as a federated healthcare data network optimized within strict budget constraints. I am also proud to be part of the Cloud Native Computing Foundation (CNCF) contributor community and its vast ecosystem, actively contributing to open-source technologies and collaborating with others to advance cloud-native innovation and tooling. My dedication to growth has also been recognized through achievements in national and international IT competitions. My career reflects a journey from application development to platform engineering to AI-augmented infrastructure, driven by curiosity, adaptability, and a mission to build impactful systems that enable organizations and developers to operate at their best.
 
-My career reflects a journey from application development to platform engineering, driven by curiosity, adaptability, and a mission to build impactful systems that enable organizations and developers to operate at their best.
 ### :trophy:&nbsp; Awards and Achievements
 - Won 1st place of [2020 Medion Medinnovation National Competition](https://www.medion.co.id/medinnovation-kompetisi-inovatif)
 - Won 1st place of [2020 Kominfo idenTIK National Competition](https://www.pikiran-rakyat.com/pendidikan/pr-01899046/unikom-raih-juara-1-kompetisi-identik-2020-dua-kategori-sekaligus)
